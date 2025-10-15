@@ -1,0 +1,18 @@
+Day 5: Console I/O (Scanner Class)
+=====================================================
+
+Input: Program obtain values to a variable during run time from users.
+
+Scanner scanner=new Scanner(System.in);
+
+import java.util.Scanner;
+
+//the values with respect to the methods
+int--------->scanner.nextInt();
+long-------->scanner.nextLong();
+float------->scanner.nextFloat();
+double------>scanner.nextDouble();
+string------>scanner.next(); or  scanner.nextLine();
+boolean----->scanner.nextBoolean();
+char-------->scanner.next().charAt(0);
+                         
